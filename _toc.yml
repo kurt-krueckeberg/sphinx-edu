@@ -4,7 +4,7 @@
 format: jb-book
 root: root/index.md
 chapters:
-- file: videos/ed-videos
+- file: videos/edu-videos
   title: Educational Videos
 - file: standards/standard-35
   title: Genealogy Standards
