@@ -1,4 +1,4 @@
-# FamilyTree Videos
+# FamilyTree Webinars
 
 |Title/Link|Speaker|
 | -------- |------ |
