@@ -3,8 +3,10 @@
 # those nested groups have been flattened, with comments preserving their labels.
 format: jb-book
 root: root/index.md
-chapters:
-  - file: videos/edu-videos
-    title: Educational Videos
-  - file: standards/standard-35
-    title: Genealogy Standards
+parts:
+  - caption: Video Lectures
+    chapters:
+      - file: videos/edu-videos  
+  - caption: Standards Articles    
+    chapters:
+      - file: standards/standard-35
