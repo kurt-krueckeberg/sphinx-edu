@@ -6,7 +6,6 @@ root: root/index.md
 parts:
   - caption: Video Lectures
     chapters:
-      sections:
       - file: videos/familysearch-videos  
       - file: videos/ggs-videos  
       - file: videos/german-gen-collective
