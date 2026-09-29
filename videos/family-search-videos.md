@@ -1,4 +1,4 @@
-# Video Lectures
+# FamilySearch Video Lectures
 
 ## From FamilySearch
 

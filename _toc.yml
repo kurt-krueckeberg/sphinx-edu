@@ -6,7 +6,10 @@ root: root/index.md
 parts:
   - caption: Video Lectures
     chapters:
-      - file: videos/edu-videos  
+      - file: videos/familysearch-videos  
+      - file: videos/ggs-videos  
   - caption: Standards Articles    
     chapters:
       - file: standards/standard-35
+# - caption: NGS Convention Lecture Topics
+#     - file: ngs-conv/lecture-topics.md
