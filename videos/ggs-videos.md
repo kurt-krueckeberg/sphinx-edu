@@ -1,3 +1,3 @@
-# Germanic Genealogy Society Videos
+# Germanic Genealogy Society
 
 **TODO**
