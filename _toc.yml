@@ -9,7 +9,7 @@ parts:
       - file: videos/familysearch-videos  
       - file: videos/ggs-videos  
       - file: videos/german-gen-collective
-#     - file: videos/family-tree-videos      
+      - file: videos/ftw-videos      
   - caption: Standards Articles    
     chapters:
       - file: standards/standard-35
