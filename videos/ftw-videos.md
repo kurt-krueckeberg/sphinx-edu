@@ -19,8 +19,10 @@
 
 ## Learning Path Series
 
-- [When Records Are Silent: Building Proof with Indirect and Negative Evidence](https://familytreewebinars.com/learning-paths/when-records-are-silent-building-proof-with-indirect-and-negative-evidence)
-- [When Records Disagree: Resolving Conflicts and Strengthening Conclusions](https://familytreewebinars.com/learning-paths/when-records-disagree-resolving-conflicts-and-strengthening-conclusions)
-- [From Records to Reasoning: Analyzing and Correlating Genealogical Evidence](https://familytreewebinars.com/learning-paths/from-records-to-reasoning-analyzing-and-correlating-genealogical-evidence)
-- [Search Wider, Dig Deeper: Mastering Reasonably Exhaustive Researching](https://familytreewebinars.com/learning-paths/search-wider-dig-deeper-mastering-reasonably-exhaustive-research)
-- [From Clues to Conclusions: Putting the Genealogical Proof Standard to Work](https://familytreewebinars.com/learning-paths/from-clues-to-conclusions-putting-the-genealogical-proof-standard-to-work)
+|Title|
+| --- |
+|[When Records Are Silent: Building Proof with Indirect and Negative Evidence](https://familytreewebinars.com/learning-paths/when-records-are-silent-building-proof-with-indirect-and-negative-evidence)|
+|[When Records Disagree: Resolving Conflicts and Strengthening Conclusions](https://familytreewebinars.com/learning-paths/when-records-disagree-resolving-conflicts-and-strengthening-conclusions)|
+|[From Records to Reasoning: Analyzing and Correlating Genealogical Evidence](https://familytreewebinars.com/learning-paths/from-records-to-reasoning-analyzing-and-correlating-genealogical-evidence)|
+|[Search Wider, Dig Deeper: Mastering Reasonably Exhaustive Researching](https://familytreewebinars.com/learning-paths/search-wider-dig-deeper-mastering-reasonably-exhaustive-research)|
+|[From Clues to Conclusions: Putting the Genealogical Proof Standard to Work](https://familytreewebinars.com/learning-paths/from-clues-to-conclusions-putting-the-genealogical-proof-standard-to-work)|
