@@ -9,4 +9,5 @@
 |[Research in Westphalia](https://ggsmn.org/cpage.php?pt=95)|Sabine Akabayov|Aug 21, 2025
 |[Discover the Holdings of German Archives](https://ggsmn.org/cpage.php?pt=95)|Teresa Steinkamp McMillin |Sept 19, 2024
 |[Find Family in Numbers: How to Find and Navigate German Census Records](https://ggsmn.org/cpage.php?pt=95)|Gail Blankenau|Aug 22, 2024|
+|Resume with:Gary Heyn - German FAN Clubs of Olmsted County, Minnesota: Immigration to Assimilation||  
 

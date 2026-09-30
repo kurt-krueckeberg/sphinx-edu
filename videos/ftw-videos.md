@@ -1,5 +1,7 @@
 # FamilyTree Webinars
 
+## German Research
+
 |Title/Link|Speaker|
 | -------- |------ |
 |[How to Successfully Research at a a German Archive](https://familytreewebinars.com/webinar/how-to-successfully-research-at-a-german-archive)|Andrea Bentschneider
@@ -14,3 +16,11 @@
 |[https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists](https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists)|Ursala C. Krause|
 |[Which Johann Christoph is Mine?](https://familytreewebinars.com/webinar/which-johann-christoph-is-mine)|Judy Russell|
 |[The Voyages of Our German Immigrants](https://familytreewebinars.com/webinar/the-voyages-of-our-german-immigrants)|Teresa Steinkamp McMillin|
+
+## Learning Path Series
+
+- [When Records Are Silent: Building Proof with Indirect and Negative Evidence](https://familytreewebinars.com/learning-paths/when-records-are-silent-building-proof-with-indirect-and-negative-evidence)
+- [When Records Disagree: Resolving Conflicts and Strengthening Conclusions](https://familytreewebinars.com/learning-paths/when-records-disagree-resolving-conflicts-and-strengthening-conclusions)
+- [From Records to Reasoning: Analyzing and Correlating Genealogical Evidence](https://familytreewebinars.com/learning-paths/from-records-to-reasoning-analyzing-and-correlating-genealogical-evidence)
+- [Search Wider, Dig Deeper: Mastering Reasonably Exhaustive Researching](https://familytreewebinars.com/learning-paths/search-wider-dig-deeper-mastering-reasonably-exhaustive-research)
+- [From Clues to Conclusions: Putting the Genealogical Proof Standard to Work](https://familytreewebinars.com/learning-paths/from-clues-to-conclusions-putting-the-genealogical-proof-standard-to-work)
