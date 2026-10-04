@@ -10,7 +10,7 @@ parts:
       - file: videos/ggs-videos  
       - file: videos/german-gen-collective
       - file: videos/ftw-videos      
-  - caption: Standards Articles    
+  - caption: Articles on the BCG Standards
     chapters:
       - file: standards/standard-35
 # - caption: NGS Convention Lecture Topics
