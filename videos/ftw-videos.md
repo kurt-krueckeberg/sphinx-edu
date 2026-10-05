@@ -13,7 +13,7 @@
 |[Finding Your Ancestors in German Directories](https://familytreewebinars.com/webinar/finding-your-ancestors-in-german-directories-2)|Ursala C. Krause|
 |[German Genealogy: Latest and Greatest Websites and Tools](https://familytreewebinars.com/webinar/german-genealogy-latest-and-greatest-websites-and-tools)|James Biedler|
 |[The Emperor's New Clothes](https://familytreewebinars.com/webinar/the-emperors-new-code)|Ute Brandenburg|
-|[https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists](https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists)|Ursala C. Krause|
+|[Luther, Napoleon and the Kaiser - German History for Genealogists](https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists](https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists)|Ursala C. Krause|
 |[Which Johann Christoph is Mine?](https://familytreewebinars.com/webinar/which-johann-christoph-is-mine)|Judy Russell|
 |[The Voyages of Our German Immigrants](https://familytreewebinars.com/webinar/the-voyages-of-our-german-immigrants)|Teresa Steinkamp McMillin|
 |[Negative Evidence: Making Something Out of Nothing](https://familytreewebinars.com/webinar/negative-evidence-making-something-out-of-nothing)|
