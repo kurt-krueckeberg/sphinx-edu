@@ -16,6 +16,7 @@
 |[https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists](https://familytreewebinars.com/webinar/luther-napoleon-and-the-kaiser-german-history-for-genealogists)|Ursala C. Krause|
 |[Which Johann Christoph is Mine?](https://familytreewebinars.com/webinar/which-johann-christoph-is-mine)|Judy Russell|
 |[The Voyages of Our German Immigrants](https://familytreewebinars.com/webinar/the-voyages-of-our-german-immigrants)|Teresa Steinkamp McMillin|
+|[Negative Evidence: Making Something Out of Nothing](https://familytreewebinars.com/webinar/negative-evidence-making-something-out-of-nothing)|
 
 ## Learning Path Series
 
@@ -26,3 +27,4 @@
 |[From Records to Reasoning: Analyzing and Correlating Genealogical Evidence](https://familytreewebinars.com/learning-paths/from-records-to-reasoning-analyzing-and-correlating-genealogical-evidence)|
 |[Search Wider, Dig Deeper: Mastering Reasonably Exhaustive Researching](https://familytreewebinars.com/learning-paths/search-wider-dig-deeper-mastering-reasonably-exhaustive-research)|
 |[From Clues to Conclusions: Putting the Genealogical Proof Standard to Work](https://familytreewebinars.com/learning-paths/from-clues-to-conclusions-putting-the-genealogical-proof-standard-to-work)|
+|[Which One Is Mine? Untangling Same-Named Ancestors](https://familytreewebinars.com/learning-paths/which-one-is-mine-untangling-same-named-ancestors)|
