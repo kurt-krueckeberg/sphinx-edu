@@ -1,4 +1,4 @@
-# Introduction to German Genealogy
+# Beginning German Genealogy Research
 
 ## Historical Context is Key
 
