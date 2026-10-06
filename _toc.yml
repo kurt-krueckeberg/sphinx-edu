@@ -4,6 +4,9 @@
 format: jb-book
 root: root/index.md
 parts:
+  - caption: German Genealogy Research
+    chapters:
+      - file: german-research/intro
   - caption: Video Lectures
     chapters:
       - file: videos/familysearch-videos  
